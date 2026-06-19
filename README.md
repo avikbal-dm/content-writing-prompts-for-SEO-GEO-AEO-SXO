@@ -1,4 +1,5 @@
-# SEO Content Engine
+# SEO, GEO, AEO and SXO Principles and Ranking Parameters based Content Writing Engine
+by AVIK BAL, author of the book "CITED: The Growth Operating System for AI Search" and publications on "CITED Framework".
 
 A research-first prompt system that produces verified, citation-ready SEO content briefs.
 
@@ -64,7 +65,7 @@ Run each pillar stage in its own conversation. Clean context keeps the model sha
 
 **Avik Bal** builds data-first growth systems for the age of AI search.
 
-He is the author of *CITED: The Growth Operating System for the Age of AI Search*, a working handbook on how businesses get found, trusted, and chosen when machines answer the questions. He also published the companion research paper that introduces the CITED framework.
+He is the author of *CITED: The Growth Operating System for AI Search*, a working handbook on how businesses get found, trusted, and chosen when machines answer the questions. He also published the companion research paper that introduces the CITED framework.
 
 The framework runs on five layers, in order: Citation Surface, Information Architecture, Technical Foundation, Evidence-Rich Extraction, and Demand Capture, powered by the Citation Flywheel. This engine is that framework turned into something you can run today.
 
