@@ -73,9 +73,6 @@ His work sits at the intersection of SEO, GEO, AEO, and SXO, always tied to real
 
 - Book: *CITED: The Growth Operating System for the Age of AI Search*
 - Research paper: the CITED framework, conceptual-framework format
-- More tools: the Growth Operating System suite
-
-*Add your book link, paper DOI, and profile links here before publishing.*
 
 ## License
 
