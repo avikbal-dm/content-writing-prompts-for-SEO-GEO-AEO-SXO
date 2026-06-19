@@ -1,5 +1,5 @@
 # SEO, GEO, AEO and SXO Principles and Ranking Parameters based Content Writing Engine
-by AVIK BAL, author of the book "CITED: The Growth Operating System for AI Search" and publications on "CITED Framework".
+by AVIK BAL, author of the book "CITED: The Growth Operating System for AI Search" and research publications on "CITED Framework".
 
 A research-first prompt system that produces verified, citation-ready SEO content briefs.
 
